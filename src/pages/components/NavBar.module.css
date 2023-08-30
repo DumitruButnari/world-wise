@@ -1,0 +1,1 @@
+.nav {    background: orangered;}.nav li {    display: flex;    justify-content: flex-start;    gap: 2rem;}
